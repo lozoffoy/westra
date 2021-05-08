@@ -2,6 +2,7 @@
 ### Группа Галдина (Вестра БУ 2021)
 
 [Маршрут БУ](https://nakarte.me/#m=13/40.04891/72.44840&l=I/Wp&nktl=CbcewZtubzTK7tDbwe_7Tg)
+
 [Маршрут СУ](https://nakarte.me/#m=12/39.83767/72.58993&l=T/Wp&nktl=g3Ko3kImWNLikTxdrrmFPg)
 
 ## Маршрут по дням
